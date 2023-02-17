@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate learner, living the infinite journey towards becoming a Developer</h3>
 
-- 🔭 I’m currently working on [pokegram project](https://github.com/leoturzi/mern-project)
+- 🔭 I’m currently working on [Movilidapp Project](https://github.com/leoturzi/movilidapp2)
 
 - 🌱 I’m currently learning **React implementing react-redux**
 
